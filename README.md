@@ -8,7 +8,7 @@ I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier 
 
 ## 🚀 About Me
 
-🎓 **Education**: Bachelor of Science in Computer Science  
+🎓 **Education**: Bachelor of Science in Computer Science, Minor in Environmental Studies  
 📍 **Location**: Greater Toronto Area, Canada  
 👨‍💻 **Current Focus**: Strengthening my skills in cybersecurity and data analytic development.  
 💼 **Aspiration**: To build a career in cybersecurity, combining my technical expertise with a passion for problem-solving.                                                         
