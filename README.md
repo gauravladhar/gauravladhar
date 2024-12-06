@@ -10,7 +10,7 @@ I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier 
 
 🎓 **Education**: Bachelor of Science in Computer Science, Minor in Environmental Studies  
 📍 **Location**: Greater Toronto Area, Canada  
-👨‍💻 **Current Focus**: Strengthening my skills in cybersecurity and data analytic development.  
+👨‍💻 **Current Focus**: Strengthening my skills in cybersecurity and data analytics.  
 💼 **Aspiration**: To build a career in cybersecurity, combining my technical expertise with a passion for problem-solving.                                                         
 ⚡ **Fun Fact**: I am a music producer 🎶
 
@@ -62,6 +62,12 @@ I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier 
 ## 📜 Certifications
 - **Foundations of Cybersecurity** | Google 🛡️
 - **Tools of the Trade: Linux and SQL** | Google 🐧
+- **Connect and Protect: Networks and Network Security** | Google 🔐
+
+---
+
+## 📈 GitHub Stats:
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravLadhar&show_icons=true&theme=radical)
 
 ---
 
