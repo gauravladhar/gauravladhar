@@ -17,7 +17,7 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
 ### **Programming Languages**
 
