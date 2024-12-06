@@ -49,7 +49,7 @@ I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier 
 - Designed and implemented a relational database schema using **MySQL**, **phpMyAdmin**, and **Workbench**.
 - Built queries, triggers, and procedures to analyze player and team performance while ensuring **data integrity**.
 
-### [FlexFit E-commerce Website 💻](https://e-commerce-project.infinityfreeapp.com/)
+### [FlexFit E-commerce Website 💻](https://github.com/GauravLadhar/FlexFit)
 - Developed a **secure e-commerce platform** using **WordPress**, **WooCommerce**, and **InfinityFree**.
 - Implemented SSL certification, GDPR compliance, and secure payment integrations.
 
