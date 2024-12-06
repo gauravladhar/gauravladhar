@@ -1,5 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
+![Banner](github-header-image.png)
+
 I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier University**, passionate about cybersecurity, database systems, and data analytics. 🚀
 
 ---
