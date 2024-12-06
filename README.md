@@ -20,16 +20,12 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-- Python 🐍
-- Java ☕
-- C/C++ 🔧
-- SQL 🗄️
-- VBA ✨
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r)](https://skillicons.dev)
 
 ### **Technologies**
-- Linux 🐧 | Bash 🖥️ | MariaDB | MySQL
-- WordPress 🌐 | phpMyAdmin 📊
-- Eclipse IDE 🚀 | PyDev 🐾
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,mariadb,mysql,wordpress,php,eclipse,arduino&perline=4)
 
 ### **Frameworks & Standards**
 - INFOSEC | CIA | NIST CSF 🔒
