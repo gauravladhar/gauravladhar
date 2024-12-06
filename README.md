@@ -2,7 +2,7 @@
 
 ![Banner](github-header-image.png)
 
-I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, passionate about cybersecurity, databases, and data analytics 🚀
+I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, passionate about cybersecurity, databases, and data analytics.
 
 ---
 
