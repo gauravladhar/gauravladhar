@@ -23,7 +23,7 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r)
 
-### **Technologies**
+### **Tools & Technologies**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,mariadb,mysql,wordpress,php,eclipse,arduino&perline=4)
 
