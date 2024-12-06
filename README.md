@@ -66,7 +66,7 @@ I'm **Gaurav Ladhar**, an Honours Computer Science student at **Wilfrid Laurier 
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravLadhar&show_icons=true&theme=radical)
 
 ---
