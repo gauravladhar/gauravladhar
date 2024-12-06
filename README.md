@@ -21,7 +21,7 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 
 ### **Programming Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r)
 
 ### **Technologies**
 
