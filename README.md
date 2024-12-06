@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-![Banner](github-header-image.png)
+![Banner](header.png)
 
 I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, passionate about cybersecurity, databases, and data analytics.
 
