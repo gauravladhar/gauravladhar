@@ -60,6 +60,7 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 - **Foundations of Cybersecurity** | Google 🛡️
 - **Tools of the Trade: Linux and SQL** | Google 🐧
 - **Connect and Protect: Networks and Network Security** | Google 🔐
+- **Play It Safe: Manage Security Risks** | Google 🦺 
 
 ---
 
