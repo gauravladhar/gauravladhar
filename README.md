@@ -8,7 +8,7 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 
 ## 🚀 About Me
 
-🎓 **Education** - Bachelor of Science in Computer Science, minor in Environmental Studies.  
+🎓 **Education** - Bachelor of Science in Computer Science w/ minor in Environmental Studies.  
 📍 **Location** - Greater Toronto Area, Canada. 🍁  
 👨‍💻 **Current Focus** - Strengthening my skills in cybersecurity and data analytics.  
 💼 **Aspiration** - To build a career in cybersecurity, combining my technical expertise with a passion for problem-solving.                 
