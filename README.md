@@ -21,11 +21,11 @@ I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, p
 
 ### **Programming Languages**
 
-![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,javascript&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,javascript,typescript,html&perline=3)
 
 ### **Tools & Technologies**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,mariadb,mysql,wordpress,php,eclipse,arduino,wireshark,jupyter,vscode,react,nextjs,word,powerpoint,excel,docker&perline=5)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,mariadb,mysql,wordpress,php,eclipse,arduino,wireshark,jupyter,vscode,react,nextjs,word,powerpoint,excel,docker,neo4j,firebase,ngrok&perline=5)
 
 ### **Frameworks & Standards**
 - INFOSEC | CIA | NIST CSF 🔒
