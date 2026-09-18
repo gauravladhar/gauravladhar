@@ -1,14 +1,12 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-![Banner](header.png)
-
 I'm an **Honours Computer Science** student at **Wilfrid Laurier University**, passionate about cybersecurity, machine learning, and data analytics.
 
 ---
 
 ## 🚀 About Me
 
-🎓 **Education** - Bachelor of Science in Computer Science w/ minor in Environmental Studies.  
+🎓 **Education** - Bachelor of Science in Computer Science  
 📍 **Location** - Greater Toronto Area, Canada. 🍁  
 👨‍💻 **Current Focus** - Strengthening my skills in AI and machine learning.  
 💼 **Aspiration** - To build a career in technology, combining my technical expertise with a passion for problem-solving.                 
